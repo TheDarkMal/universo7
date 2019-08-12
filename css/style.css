@@ -1,0 +1,12 @@
+header{
+    background-color: blue;
+}
+header h1{
+    padding-top: 30px;
+}
+body{
+    background-color: #545454;
+}
+#move{
+    padding-right: 5px;
+}
