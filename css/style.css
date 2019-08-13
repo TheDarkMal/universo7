@@ -10,3 +10,8 @@ body{
 #move{
     padding-right: 5px;
 }
+th{
+    background-color: aqua;
+    padding-left: 50px;
+    border-color: black 2px;
+}
